@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryServiceNTier.Data", "InventoryServiceNTier.Data\InventoryServiceNTier.Data.csproj", "{E379874A-04D6-48D9-9B3A-D604C2DD114C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryServiceNTier.API", "InventoryServiceNTier.API\InventoryServiceNTier.API.csproj", "{BF6456AB-93DC-49B9-9D36-58E1780E51C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E379874A-04D6-48D9-9B3A-D604C2DD114C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E379874A-04D6-48D9-9B3A-D604C2DD114C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E379874A-04D6-48D9-9B3A-D604C2DD114C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E379874A-04D6-48D9-9B3A-D604C2DD114C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6456AB-93DC-49B9-9D36-58E1780E51C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6456AB-93DC-49B9-9D36-58E1780E51C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6456AB-93DC-49B9-9D36-58E1780E51C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6456AB-93DC-49B9-9D36-58E1780E51C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A7380D-320F-4BD2-8C45-CB3E160BDE01}
+	EndGlobalSection
+EndGlobal
